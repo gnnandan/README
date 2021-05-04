@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gnnandan7
+- 👋 Hi, I’m @Nandan G N
 - 👀 I’m interested in Python & Data Science
 - 🌱 I’m currently learning Artificial Intelligence & Machine Learning
 - 💞️ I’m looking to collaborate on Open-Source Wordpress Developers 
