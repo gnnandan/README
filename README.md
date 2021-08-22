@@ -59,7 +59,12 @@
 <a href="https://dev.to/https://dev.to/gnnandan7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/gnnandan7" height="30" width="40" /></a>
 <a href="https://medium.com/@gnnandan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gnnandan7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucuv7mz6gefpfogfpgcykyqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucuv7mz6gefpfogfpgcykyqa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gnnandan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/gnnandan7" height="30" width="40" /></a>
-</p>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gnnandan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/gnnandan7" height="30" width="40" /></a></p>
 <br></br>
+
+## **📈 Github Contribution Graph**
+<a href="https://github.com/gnnandan7/github-readme-activity-graph"><img alt="Nandan G N's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gnnandan7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br></br>
+
+## **📃 Most language usage**
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnnandan7&show_icons=true&locale=en&layout=compact" alt="gnnandan7" /></div>
